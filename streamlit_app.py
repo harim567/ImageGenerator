@@ -1,4 +1,4 @@
-import streamlit as stpi
+import streamlit as st
 from diffusers import DiffusionPipeline
 import torch
 
